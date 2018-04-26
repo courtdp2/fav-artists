@@ -1,0 +1,175 @@
+{
+  "artists": [
+    { 
+        "id": 1,
+        "name": "Drake",
+        "cover":"drake",
+        "bio":"Born October 24, 1986 in Toronto, Ontario, Drake is a Canadian actor and recording artist, and one of the co-founder of the OVO Sound label. He originally became known for playing the character Jimmy Brooks on the TV series Degrassi: The Next Generation. As a rapper, he performs under the mononym Drake. Early in his career, Drake established a close affiliation with Lil Wayne's Young Money Entertainment before officially signing with the record label in June 2009.",
+        "albums": [
+            {"albumId":"a1","title":"So Far Gone","year":2009,"cover":"so_far_gone"},
+            {"albumId":"a2","title":"Thank Me Later","year":2010,"cover":"thank_me_later"},
+            {"albumId":"a3","title":"Take Care","year":2011,"cover":"take_care"},
+            {"albumId":"a4","title":"Nothing Was The Same","year":2013,"cover":"nwts"},
+            {"albumId":"a5","title":"If You're Reading This Its Too Late","year":2015,"cover":"iyrtitl"},
+            {"albumId":"a6","title":"Views","year":2016,"cover":"views"},
+            {"albumId":"a7","title":"More Life","year":2017,"cover":"more_life"}
+        ],
+        "genre":"hip-hop, rap, pop, r&b"
+    },
+    { 
+        "id": 2,
+        "name": "Future",
+        "cover":"future", 
+        "bio":"Nayvadius DeMun Wilburn born on 11th November, 1985 is an Haitian American rapper and producer from Kirkwood, Atlanta, Georgia. ",
+        "albums": [
+            {"albumId":"b1","title":"Monster","year":2014,"cover":"beast_mode"},
+            {"albumId":"b2","title":"Beast Mode","year":2015,"cover":"56_nights"},
+            {"albumId":"b3","title":"56 Nights","year":2015,"cover":"monster"},
+            {"albumId":"b4","title":"Dirty Sprite 2","year":2015,"cover":"ds2"},
+            {"albumId":"b5","title":"Evol","year":2016,"cover":"evol"},
+            {"albumId":"b6","title":"Future","year":2017,"cover":"future"},
+            {"albumId":"b7","title":"HNDRXX","year":2017,"cover":"hndrxx"}
+        ],
+        "genre":"rap, pop, r&b"
+    },
+    {
+        "id": 3,
+        "name": "Kendrick Lamar", 
+        "cover":"k_dot", 
+        "bio":"Kendrick Lamar Duckworth, American rapper born June 17, 1987 in Compton, California.",
+        "albums": [
+            {"albumId":"c1","title":"Overly Dedicated","year":2010,"cover":"overly_dedicated"},
+            {"albumId":"c2","title":"Section .80","year":2011,"cover":"section80"},
+            {"albumId":"c3","title":"Good Kid M.A.A.D City","year":2012,"cover":"gkmc"},
+            {"albumId":"c4","title":"To Pimp a Butterfly","year":2015,"cover":"tpab"},
+            {"albumId":"c5","title":"Untitled Unmastered","year":2016,"cover":"untitled_unmastered"},
+            {"albumId":"c6","title":"DAMN.","year":2017,"cover":"damn"}
+        ],
+        "genre":"hip-hop, rap"
+    },
+    { 
+        "id": 4,
+        "name": "Kanye West", 
+        "cover":"kanye_west", 
+        "bio":"Kanye Omari West (born June 8, 1977) is an American rapper, songwriter, record producer, director, entrepreneur, and fashion designer. His style of production originally used high-pitched vocal samples from soul songs incorporated with his own drums and instruments. He later broadened his influences to include 1970s R&B, baroque pop, trip hop, arena rock, house, folk, alternative, electronica, synthpop, industrial, and classical music. He is one of the world's best-selling artists of all time, having sold more than 21 million albums and 66 million digital downloads. He has won a total of 21 Grammy Awards.",
+        "albums": [
+            {"albumId":"d1","title":"The College DropOut","year":2004,"cover":"college_dropout"},
+            {"albumId":"d2","title":"Late Registration","year":2005,"cover":"late_registration"},
+            {"albumId":"d3","title":"Graduation","year":2007,"cover":"graduation"},
+            {"albumId":"d4","title":"808's and Heartbreaks","year":2008,"cover":"808nHB"},
+            {"albumId":"d5","title":"My Beautiful Dark Twisted Fantasy","year":2010,"cover":"mbdtf"},
+            {"albumId":"d6","title":"Yeezus","year":2013,"cover":"yeezus"},
+            {"albumId":"d7","title":"The Life of Pablo","year":2017,"cover":"tlop"}
+        ],
+        "genre":"rap, hip-hop, r&b"
+    },
+    
+    { 
+        "id": 5,
+        "name": "Isaiah Rashad", 
+        "cover":"isaiah_rashad", 
+        "bio":" Real name, Isaiah Rashad McClain is Hip-hop artist from Chattanooga, Tennessee, USA. Signed to Top Dawg Entertainment in 2013.",
+        "albums": [
+            {"albumId":"e1","title":"Cilvia Demo","year":2014,"cover":"cilvia_demo"},
+            {"albumId":"e2","title":"The Sun's Tirade","year":2017,"cover":"tst"}
+        ],
+        "genre":"hip-hop, rap"
+    },
+    { 
+        "id": 6,
+        "name": "Travi$ Scott", 
+        "cover":"t$", 
+        "bio":"Jacques Webster (born April 30, 1992), known professionally as Travis Scott (formerly stylized as Travi$ Scott), is an American rapper, singer, songwriter, and record producer. ",
+        "albums": [
+            {"albumId":"f1","title":"Rodeo","year":2015,"cover":"rodeo"},
+            {"albumId":"f2","title":"Birds in the Trap Sing McKnight","year":2016,"cover":"bittsm"}
+        ],
+        "genre":"hip-hop rap"
+    },
+    { 
+        "id": 7,
+        "name": "Rae Sremmurd", 
+        "cover":"ear_drummers", 
+        "bio":"Rae Sremmurd is an American hip hop duo, composed of Swae Lee (born June 7, 1995) and Slim Jimmy (born December 29, 1993) from Tupelo, Mississippi.",
+        "albums": [
+            {"albumId":"g1","title":"SremmLife","year":2015,"cover":"sremmlife"},
+            {"albumId":"g2","title":"SremmLife 2","year":2016,"cover":"sremmlife2"}
+        ],
+        "genre":"rap"
+    },
+    { 
+        "id": 8,
+        "name": "Beyoncé", 
+        "cover":"beyonce", 
+        "bio":"Beyoncé Giselle Knowles-Carter (born September 4, 1981) is an American singer, songwriter and actress. Born and raised in Houston, Texas, she rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child.",
+        "albums": [
+            {"albumId":"h1","title":"Dangerously In Love","year":2003,"cover":"DiL"},
+            {"albumId":"h2","title":"B'Day","year":2006,"cover":"bday"},
+            {"albumId":"h3","title":"I am... Sasha Fierce","year":2008,"cover":"sasha_fierce"},          
+            {"albumId":"h4","title":"4","year":2011,"cover":"4"},
+            {"albumId":"h5","title":"Beyoncé","year":2014,"cover":"bey"},
+            {"albumId":"h6","title":"Lemonade","year":2017,"cover":"lemonade"}
+        ],
+        "genre":"pop, r&b, hip-hop"
+    },
+    { 
+        "id": 9,
+        "name": "Post Malone", 
+        "cover":"post_malone", 
+        "bio":"Austin Richard Post (born July 4, 1995), known professionally as Post Malone, is an American rapper, singer, songwriter, record producer, and guitarist. Malone was born in Syracuse, New York. When he was 9 years old, he and his family moved to Grapevine, Texas.",
+        "albums": [
+            {"albumId":"i1","title":"August 26","year":2016,"cover":"aug26"},
+            {"albumId":"i2","title":"Stoney","year":2017,"cover":"stoney"}
+        ],
+        "genre":"hip-hop, rap, soul"
+    },
+    { 
+        "id": 10,
+        "name": "Kali Uchis", 
+        "cover":"kali_uchis", 
+        "bio":"Kali Loaiza (born July 17, 1993) is a Colombian singer, songwriter, producer, and videographer. She was born in Pereira, Colombia and raised in Virginia, United States.",
+        "albums": [
+            {"albumId":"j1","title":"Por Vida","year":2015,"cover":"por_vida"},
+            {"albumId":"j2","title":"Drunken Babble","year":2016,"cover":"drunken_babble"},
+            {"albumId":"j3","title":"Isolation","year":2018,"cover":"isolation"}
+        ],
+        "genre":"r&b, soul"
+    },
+    { 
+        "id": 11,
+        "name": "Frank Ocean", 
+        "cover":"frank_o", 
+        "bio":"Christopher Francis Ocean is an American singer-songwriter from New Orleans, Louisiana, born 28 October 1987.",
+        "albums": [
+            {"albumId":"k1","title":"nostalgia/ultra","year":2011,"cover":"nost_ult"},
+            {"albumId":"k2","title":"channel ORANGE","year":2012,"cover":"channel_orange"},
+            {"albumId":"k3","title":"Endless","year":2016,"cover":"endless"},
+            {"albumId":"k3","title":"Blonde","year":2016,"cover":"blonde"}
+        ],
+        "genre":"r&b, soul"
+    },
+    { 
+        "id": 12,
+        "name": "Vince Staples", 
+        "cover":"vince_staples", 
+        "bio":"Vincent Staples is an American rapper, born July 2, 1993 in Northside, Long Beach, California, USA.",
+        "albums": [
+            {"albumId":"l1","title":"Summertime '06","year":2015,"cover":"summertime06"},
+            {"albumId":"l2","title":"Big Fish Theory","year":2017,"cover":"bft"}
+        ],
+        "genre":"rap, hip-hop"
+    },
+    { 
+        "id": 13,
+        "name": "A$AP Rocky", 
+        "cover":"asap_rocky", 
+        "bio":"Rakim Mayers (born October 3, 1988) is an American rapper, songwriter, record producer, and actor. He is a member of the hip hop group A$AP Mob, from which he adopted his moniker.",
+        "albums": [
+            {"albumId":"m1","title":"Live.Love.A$AP '06","year":2011,"cover":"LLA1"},
+            {"albumId":"m2","title":"Long.Live.A$AP","year":2013,"cover":"LLA2"},
+            {"albumId":"m3","title":"At.Long.Last.A$AP","year":2015,"cover":"ALLA"}
+        ],
+        "genre":"rap, hip-hop"
+    }
+  ]
+}
