@@ -90,7 +90,7 @@ a {
 /* HEADER */
 
 header {
-    font-family: 'Monoton';
+    font-family: 'Monoton', cursive;
     text-align: center;
     font-size: 33px;
     border-bottom: 1px solid #2196f3;
